@@ -11,11 +11,11 @@
 * [Abstract](#abstract)
 * [Introduction](#introduction)
 * [Objective](#objective)
-* [Installation]()
+* [Installation](#installation)
 * [Methods for Face Recognition]()
 * [Applications of Face Recognition]()
-* [Conclusion]()
-* [Resources]()
+* [Conclusion](#conclusion)
+* [Resources](resource)
 
 #  ABSTRACT 
 

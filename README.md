@@ -15,7 +15,7 @@
 * [Methods for Face Recognition]()
 * [Applications of Face Recognition]()
 * [Conclusion](#conclusion)
-* [Resources](resource)
+* [Resources](#resource)
 
 #  ABSTRACT 
 

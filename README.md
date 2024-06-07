@@ -2,7 +2,7 @@
 <p align="center">
 
 <a target="_blank" href="">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*x1JZIt-6lSDI5UPjP7Hdxw.jpeg" alt="Face" height="350px"/>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*x1JZIt-6lSDI5UPjP7Hdxw.jpeg" alt="Face" height="250px"/>
  </a>
   
 </p>
@@ -49,19 +49,21 @@ We propose an advanced Face information recognition system that harnesses the ca
 # Installation
 
 
-The model is built in Opencv 4.4.0.46 and tested on Windows 10,11 environment (Python3.7, CUDA9.0, cuDNN7.5).
+The model is built in Opencv=4.4.0.46 and tested on Windows 10,11 environment (Python3.7, CUDA9.0, cuDNN7.5).
 
 For installing, follow these intructions
 ```
 Python==3.7.4
-pip install Flask
-pip install numpy
-pip install opencv_python
-pip install pandas
-pip install Pillow
-pip install opencv-contrib-python
-pip install matplotlib scikit-image opencv-python 
+opencv==4.4.0.46
 ```
+- `pip install Flask`
+- `pip install numpy`
+- `pip install opencv_python`
+- `pip install pandas`
+- `pip install Pillow`
+- `pip install opencv-contrib-python`
+- `pip install matplotlib scikit-image opencv-python`
+
 
 
 # Methods for Face Recognition

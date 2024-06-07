@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Face Recognition Attendance System using machine learning</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+   <div class="main">
+       <div class="headline">
+           <h2>Face Recognition Attendance System using machine learning</h2>
+       </div>
+
+       <div class="functions">
+           <div class="firstrow">
+               <form action="/Check_camera" method="post" >
+                   <input type="submit" class=file_submit value="Check Camera">
+               </form>
+               <form action="/add_student_data" method="post">
+                   <input type="submit" class=file_submit value="Add Student">
+               </form>
+               <form action="/Train" method="post" >
+                    <input type="submit" class=file_submit value="Train Model">
+                    {% if name %}
+                    <script type="text/javascript">
+                        window.alert("Model Successfully Trained")
+                    </script>
+                    {% endif %}
+               </form>
+           </div>
+
+            <div class="secondrow">
+              <form action="/Give_attendance" method="post" >
+                    <input type="submit" class=file_submit value="BIOMETRIC(Face) RECOGNITION">
+                </form>
+                <form action="/Attendance" method="post" >
+                    <input type="submit" class=file_submit value="BIOMETRIC Attendance">
+                </form>
+                <form action="/Quit" method="post">
+                    <input type="submit" class=file_submit value="Quit">
+                </form>
+            </div>
+        </div>
+   </div>
+</body>
+</html>
+
+
+
+

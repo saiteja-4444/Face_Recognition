@@ -1,4 +1,4 @@
-<h1 align="center"> FACE RECOGNITION USING MACHINE LEARNING </h1>
+<h1 align="center"> 🎭 FACE RECOGNITION </h1>
 <p align="center">
 
 <a target="_blank" href="">

@@ -144,7 +144,6 @@ Face recognition enables natural and intuitive interaction between humans and co
 Face information recognition using artificial intelligence algorithms represents a substantial advancement in security and identification technologies. The proposed system's integration of AI techniques enhances accuracy, robustness, and adaptability across various Face sources. By combining Face data acquisition, deep learning models, and fusion techniques, this approach demonstrates the potential to revolutionize the accuracy and efficiency of Face recognition systems. The project's modules together contribute to an effective, efficient, and reliable solution that aligns with evolving security requirements and technological advancements.
 
 
-
 # Resources
 
 * I got big help from [pyimagesearch](https://www.pyimagesearch.com/pyimagesearch-gurus/). It cleared most of my concepts with very Ease and practical examples.
@@ -160,3 +159,5 @@ Face information recognition using artificial intelligence algorithms represents
 
 
 
+# Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for review.
